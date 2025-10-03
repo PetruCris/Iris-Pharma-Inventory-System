@@ -5,7 +5,6 @@ Windows / MacOS / Linux
 XAMPP
  (with Apache and MySQL)
 Web browser (e.g., Chrome, Firefox)
-1. Install XAMPP
 Download and install XAMPP 
 .
  Make sure both Apache and MySQL modules are started in the XAMPP Control Panel.
